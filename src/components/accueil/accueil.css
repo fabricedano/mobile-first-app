@@ -1,0 +1,15 @@
+.yellowCard {
+    background-color: yellow;
+}
+.redCard {
+    background-color: red;
+}
+.greenCard {
+    background-color: green;
+}
+.textColor {
+    color: black;
+}
+#objectCard {
+    margin-bottom: 5px;
+}

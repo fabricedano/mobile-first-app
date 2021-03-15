@@ -1,0 +1,22 @@
+.objectCard {
+    margin-bottom: 10px;
+}
+
+.backgroundMainCardBody {
+    background-color: #1d1551;
+    color: gray;
+}
+
+.backgroundCardbody {
+    background-color: #261a74;
+}
+
+.optiButton {
+    width: 100%;
+}
+
+.icons {
+    color: #00CB8B;
+    width: 30px;
+    height: 30px
+}
